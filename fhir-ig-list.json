@@ -7839,10 +7839,10 @@
       "editions" : [
         {
           "name" : "DSTU 1",
-          "ig-version" : "0.4.0",
-          "package" : "hl7.at.fhir.gkl.ig-tooling#0.4.0",
+          "ig-version" : "0.5.1",
+          "package" : "hl7.at.fhir.gkl.ig-tooling#0.5.1",
           "fhir-version" : ["4.0.1"],
-          "url" : "https://gabriel0316.github.io/ig-tooling-pages/ig/ig-tooling/0.4.0"
+          "url" : "https://gabriel0316.github.io/ig-tooling-pages/ig/ig-tooling/0.5.1"
         }
       ]
     },
